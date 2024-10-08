@@ -27,6 +27,6 @@ sudo pacman -S --needed --noconfirm $(pacman -Ssq ^hunspell-)
 sudo pacman -S --needed --noconfirm $(pacman -Ssq ^aspell-)
 ```
 
-**"✅ Done & Enjoy❗️**
+**✅ Done & Enjoy❗️**
 
 
