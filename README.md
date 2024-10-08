@@ -1,12 +1,11 @@
-# Install-additional-Languages
-Install dictionaries and/or other languages under Linux
-
 ## Install-additional-Languages.md
 
 ### 1. Install needed Languages
 
 * **Prologue:** i installed my "CachyOS" choosing English as default language and setting Germany as Country i live. No
-Linux i know install the dictionaries by default yet. So, these are to be installed wen OS-setup is completed.
+Linux i know install the dictionaries by default yet. So, these are to be installed when OS-setup is completed. This is
+necessary if you want to use the "Spell Check" in the Apps of your OS and/or eliminating errors by starting some apps
+using dictionaries.
 
 `sudo pacman -S --needed --noconfirm hunspell-en hunspell-de aspell-en aspell-de`
 
