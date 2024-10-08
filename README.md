@@ -13,9 +13,8 @@ using dictionaries.
   
 **Attention!**
 * Under Plasma DE open `systemsettings` & click **"Language & Time / Spell Check/"** & disable:
+
 **"✅ Enable autodetection of language"** 🟰 uncheck this box❗️
-
-
 
 ### 2. Alternatives
 
