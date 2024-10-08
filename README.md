@@ -12,7 +12,6 @@ using dictionaries.
 * That's at least necessary to setup the spell-check of your OS.
   
 **Attention!**
-
 * Under Plasma DE open `systemsettings` & click **"Language & Time / Spell Check/"** & disable:
 **"✅ Enable autodetection of language"** 🟰 uncheck this box❗️
 
